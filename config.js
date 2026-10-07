@@ -47,13 +47,13 @@ window.SITE = {
       type: "card",
       icon: "telegram",
     },
-    {
-      title: "Написати мені",
-      subtitle: "hello@email.com",
-      href: "mailto:hello@email.com",
-      type: "card",
-      icon: "mail",
-    },
+    //{
+    //  title: "Написати мені",
+    //  subtitle: "hello@email.com",
+    //  href: "mailto:hello@email.com",
+    //  type: "card",
+    //  icon: "mail",
+    //},
   ],
 
   // Іконки соцмереж унизу (компактний ряд).
