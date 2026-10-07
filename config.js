@@ -34,6 +34,13 @@ window.SITE = {
       icon: "donatello",
     },
     {
+      title: "Twitch",
+      subtitle: "Стріми тут",
+      href: "https://www.twitch.tv/datsky044",
+      type: "card",
+      icon: "twitch",
+    },
+    {
       title: "TikTok",
       subtitle: "Стріми та нарізки",
       href: "https://tiktok.com/@datsky044",
@@ -60,6 +67,7 @@ window.SITE = {
   // Щоб сховати мережу — видали об’єкт або постав enabled: false
   socials: [
     { name: "Donatello", href: "https://donatello.to/Datsky044", icon: "donatello", enabled: true },
+    { name: "Twitch", href: "https://www.twitch.tv/datsky044", icon: "twitch", enabled: true },
     { name: "Telegram", href: "https://t.me/datsky_live", icon: "telegram", enabled: true },
     { name: "TikTok", href: "https://tiktok.com/@datsky044", icon: "tiktok", enabled: true },
     { name: "YouTube", href: "https://youtube.com/@YOUR_CHANNEL", icon: "youtube", enabled: false },
